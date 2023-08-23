@@ -10,5 +10,3 @@ Files overview:
 - proj analysis: contains an analysis of the Fantasy Pros projected, in order to compare the quality of the expected ppg model
 - Model Auto: notebook to automate the calculation of expected ppg for the 2023 season
 - Draft Model: the framework to simulate the Fantasy Draft
-
-Currently: creating code to optimal draft
